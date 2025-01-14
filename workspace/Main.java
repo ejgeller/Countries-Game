@@ -1,3 +1,7 @@
+// Eli Geller
+// 1/14/25
+// Main method for the countries game
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
