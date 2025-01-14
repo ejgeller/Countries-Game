@@ -1,3 +1,7 @@
+// Eli Geller
+// 1/14/25
+// Creates the country class
+
 public class Country
 {
   // add private instance variables for the name, capital, language, and image file.
