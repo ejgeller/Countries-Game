@@ -1,6 +1,6 @@
 // Eli Geller
 // 1/14/25
-// Creates the country class
+// Creates the country class which creates the instance variables, get methods, and constructor in order to create Country objects, and print info about it
 
 public class Country
 {
@@ -25,7 +25,7 @@ public class Country
   }
 
   public String getName() {
-    return name;
+    return name;      
   }
 
   public String getCapital() {
